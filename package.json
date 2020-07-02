@@ -1,0 +1,11 @@
+{
+  "name": "pexel-puller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pexels": "^1.0.1",
+    "promise.bar": "^0.1.5",
+    "vimeo-downloader": "^1.0.4"
+  }
+}
