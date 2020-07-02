@@ -34,10 +34,9 @@ const getVideoLinks = async () => {
   // Pull out the video arrays and combine them
   const fullVideoData = [...videoChunk1.videos, ...videoChunk2.videos];
 
-  // Drill down into each video object and pull out the video that has a width of 960
-  // Api offers many different sizes - 960 was chosen for size purposes
   console.log(`Stripping video links...`);
 
+  // Drill down into each video object and pull out the video of SD quality
   return fullVideoData.map((video, i) => {
     return video.video_files.find((video) => video.quality === "sd").link;
   });
