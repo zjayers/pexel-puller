@@ -1,14 +1,14 @@
 {
   "name": "pexel-puller",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "pexels": "^1.0.1",
     "promise.bar": "^0.1.5",
     "vimeo-downloader": "^1.0.4"
-  },
-  "scripts": {
-    "start": "node index.js"
   }
 }
