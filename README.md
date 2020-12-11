@@ -1,8 +1,7 @@
 # Pexel-Puller
-[![GitHub Release](https://img.shields.io/github/release/zjayers/pexel-puller.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/pexel-puller.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/pexel-puller.svg?style=flat)](https://github.com/zjayers/pexel-puller/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/pexel-puller.svg?style=flat)](https://github.com/zjayers/pexel-puller/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/pexel-puller.svg?maxAge=25000)](https://github.com/zjayers/pexel-puller/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/pexel-puller/blob/master/LICENSEs)
 
 ## Description
 
